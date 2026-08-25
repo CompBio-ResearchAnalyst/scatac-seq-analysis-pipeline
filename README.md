@@ -175,3 +175,7 @@ Dataset-specific findings, result files, and analyses conducted as part of
 ongoing or confidential research are not included and remain separate from
 this codebase. Parameters require adjustment based on the target tissue
 and dataset.
+
+Shared for portfolio and demonstration purposes only. No license is granted
+for reuse, modification, or redistribution - please reach out if any discussion
+or collaboration.
