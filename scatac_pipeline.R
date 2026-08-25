@@ -1,6 +1,6 @@
 # ==============================================================================
 # scATAC-Seq Analysis Pipeline - Signac
-# Author: CompBio-ResearchAnalyst
+# Author: Rahul V Sangoji
 #
 # Description:
 #   End-to-end single-cell ATAC-seq analysis pipeline using Signac and Seurat.
